@@ -54,3 +54,4 @@ ___
 > GNU / General Public License (see [license.txt](license.txt))
 
 > The POS Restaurant code is licensed under the GNU General Public License (v3).
+> This is POS restaurant code
